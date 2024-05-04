@@ -1,0 +1,4 @@
+if input('52?') ==  'Piter':
+    print('posxalko')
+else:
+    print('lox')s
